@@ -1,0 +1,7 @@
+codechallenge\mc\cityexplorer\controllers\CityConnectorController.class
+codechallenge\mc\cityexplorer\services\CityDetailsServiceImpl.class
+codechallenge\mc\cityexplorer\services\CityDetailsService.class
+codechallenge\mc\cityexplorer\CityExplorerApplication.class
+codechallenge\mc\cityexplorer\model\CityModel.class
+codechallenge\mc\cityexplorer\config\Swagger2Config.class
+codechallenge\mc\cityexplorer\util\AppConstants.class
