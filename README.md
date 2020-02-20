@@ -10,16 +10,13 @@ If you require fast performance or "what if there are 100 million cities" then t
 
 About SWAGGER
 https://github.com/springfox/springfox/issues/2932
-Swagger WILL NOT work just by adding dependencies, its a known issue
-With more time some workaround can be found.
-So commenting out @Configuration and @EnableSwagger2 annotations.
-Also commented out the swagger related dependencies in pom.xml
+Swagger WILL NOT work just by adding dependencies, its a known issue. With more time some workaround can be found. So commenting out @Configuration and @EnableSwagger2 annotations.Also commented out the swagger related dependencies in pom.xml
+
 In other words, the harness and classes are there, but it will not create the Swagger magic. 
 
 About Unit Tests.
-We can use some library like Mockito to write unit tests for controller/services.
-But for this app, it will be an overkill. 
-If there is an architectural decision to follow TDD, as a developer I can gladly follow instructions.
+We can use some library like Mockito to write unit tests for controller/services. But for this app, it will be an overkill. If there is an architectural decision to follow TDD, as a developer I can gladly follow instructions.
+
 So respectfully declining the invitation to 'test the living daylight'...
 
 ****IMPORTANT
