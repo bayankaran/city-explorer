@@ -2,7 +2,7 @@
 
 Thank you for giving me this opportunity :-)
 
-*****IMPORTANT - Please read this fully. 
+*****VERY IMPORTANT - Please read this fully. 
 
 This app will do the one thing asked in the challenge and will do it well.
 
@@ -21,6 +21,10 @@ We can use some library like Mockito to write unit tests for controller/services
 But for this app, it will be an overkill. 
 If there is an architectural decision to follow TDD, as a developer I can gladly follow instructions.
 So respectfully declining the invitation to 'test the living daylight'...
+
+****IMPORTANT
+lombok.jar
+This project uses Project Lombok for Getters/Setters, log etc. Depending on your IDE, you will need Lombok to be integrated, else the IDE will complain. 
 
 ****IMPORTANT
 How to run the app?
