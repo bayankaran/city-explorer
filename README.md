@@ -33,5 +33,5 @@ java -jar cityexplorer-0.0.1-SNAPSHOT.jar
 ****IMPORTANT
 How to check the API end point?
 Use Postman or Browser to listen to localhost:9000/city-explorer/connected?origin=trenton&destination=albany
-The port is 9000 as I had other apps, and while packaging forgot to remove, and there is a contextPath as well. 
+The port is 9000 as I had other apps, and while packaging forgot to change, and there is a contextPath, a good practice for any app. 
 
