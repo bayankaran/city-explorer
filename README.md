@@ -6,7 +6,7 @@ Thank you for giving me this opportunity :-)
 
 This app will do the one thing asked in the challenge and will do it well.
 
-If you require fast performance or "what if there are 100 million cities" then this approach may or may not work, depending on JVM settings, hardware etc. Mostly it will work. 
+If you require fast performance or "what if there are 100 million cities" then this approach may or may not work, depending on JVM settings, hardware etc. 
 
 About SWAGGER
 https://github.com/springfox/springfox/issues/2932
@@ -20,12 +20,6 @@ We can use some library like Mockito to write unit tests for controller/services
 So respectfully declining the invitation to 'test the living daylight'...
 
 There is an error check which looks if a line in the city.txt has a valid pair, it will skip that line and alert, for this app, its a better approach than a UNIT TEST failure. 
-
-
-****IMPORTANT
-lombok.jar
-This project uses Project Lombok for Getters/Setters, log etc. Depending on your IDE, you will need Lombok to be integrated, else the IDE will complain. 
-
 
 ****IMPORTANT
 lombok.jar
