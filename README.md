@@ -1,7 +1,5 @@
 # city-explorer
 
-Thank you for giving me this opportunity :-)
-
 *****VERY IMPORTANT - Please read this fully. 
 
 This app will do the one thing asked in the challenge and will do it well.
